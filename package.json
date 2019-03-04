@@ -1,0 +1,22 @@
+{
+  "name": "fastify-stream-sample",
+  "version": "1.0.0",
+  "description": "fastify streaming sample",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib"
+  },
+  "keywords": [],
+  "author": "Joel Chen",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jchip/fastify-stream-sample.git"
+  },
+  "dependencies": {
+    "fastify": "^2.0.0",
+    "fastify-cookie": "^3.0.0",
+    "munchy": "^1.0.4"
+  },
+  "private": true
+}
